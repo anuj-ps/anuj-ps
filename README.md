@@ -26,7 +26,7 @@
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=anuj-ps&show_icons=true&locale=en&layout=compact" alt="anuj-ps" /></p>
 <h2>❤️ Support Me</h2>
 <p><p>
-<a href="https://www.buymeacoffee.com/https://buymeacoffee.com/anuj.ps">
+<a href="https://buymeacoffee.com/anuj.ps">
 <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="160" alt="buymeacoffee" />
 </a>
 </p>
